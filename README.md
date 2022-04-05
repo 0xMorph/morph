@@ -11,3 +11,4 @@ Upcoming stuff to be added/changed:
 - Crossposting
 - Mailing list
 - Thumbnails for posts
+- Thumbnails for links
