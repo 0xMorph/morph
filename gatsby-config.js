@@ -5,7 +5,7 @@ module.exports = {
       name: `Morph`,
       summary: `Security Researcher in Blockchain Security`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Morph's Security Blog`,
     siteUrl: `https://morphsec.io/`,
     social: {
       twitter: `0xMorph`,
